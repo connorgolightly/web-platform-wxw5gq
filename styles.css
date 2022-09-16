@@ -1,0 +1,29 @@
+@import url("css/layout.css");
+@import url("css/color.css");
+body {
+    color: blue;
+    font-size: 14px;
+}h1 {
+    color: blue;
+    text-align: center;
+}
+      /* This is a CSS comment */
+h1 {
+    color: blue;
+    text-align: center;
+}
+/* This is a multi-line CSS comment 
+that spans across more than one line */
+p {
+    font-size: 18px;
+    text-transform: uppercase;
+}
+      h1 {
+    color: blue;
+    text-align: center;
+}
+/*
+p {
+    font-size: 18px;
+    text-transform: uppercase;
+}
